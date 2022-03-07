@@ -1,0 +1,96 @@
+h1{ background-color: rgb(226, 177, 220); text-align-last: center;
+color: rgb(35, 74, 110);
+font-size: 50px;
+text-shadow: 2px 05px 5px  rgb(123, 37, 223);
+font-family: 'Permanent Marker', cursive;
+margin: 0%;
+border-color: rgb(129, 82, 240);
+
+
+}
+
+h2{background-color: rgb(255, 0, 149);   
+ color: rgb(222, 223, 169);   
+ font-size: 30px;
+
+}
+
+body {color: rgb(76, 18, 134); 
+    background-color: rgb(165, 238, 182);
+
+}
+
+img{image-resolution: 10mpx, 50mpx;
+    
+
+}
+
+
+p{background-color: rgb(210, 245, 153);
+  font-size: 20px;
+  text-align: left;
+  
+  
+
+
+}
+
+h2{background-color: rgb(207, 28, 133);
+
+
+}
+
+h3{background-color: blueviolet;
+color: black;
+font-size: 30px;
+opacity: 0.9;
+
+}
+
+form{background-color: rgb(114, 221, 221);
+    color: brown;
+    opacity: 0.8;
+   
+
+
+}
+
+.nombre{background-image:url(/imagenes/pasteleria\ luna.png);
+    background-position:center; 
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+{background-position:center; 
+        background-repeat: no-repeat;
+        background-size: cover;
+}
+
+.tipos de pasteles{background-image:url(/imagenes/pasteleria\ luna.png);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.menu{color: black;
+    size: 20px;
+    position: center;
+
+
+
+
+
+
+}
+ 
+.val{
+    font-size: 35px;
+    text-align: justify;
+    text-decoration: none;
+    text-shadow: 2px 05px 5px  rgb(145, 58, 27);
+     /* font-family: Verdana, Geneva, Tahoma, sans-serif;  por de faul*/
+    font-family: 'Permanent Marker', cursive;
+   
+
+
+}
